@@ -1,3 +1,3 @@
-# Android Practice: 
+# Android Basics Course: 
 
-Android Basics Course: Score Keeper App
+Android Practice: Score Keeper App
