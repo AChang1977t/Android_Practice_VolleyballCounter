@@ -1,3 +1,3 @@
-# Android_Practice_VolleyballCounter
+# Android Practice: 
 
 Android Basics Course: Score Keeper App
