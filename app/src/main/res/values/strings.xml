@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Volleyball Counter</string>
+    <string name="Team_A">Team A</string>
+    <string name="zero">0</string>
+    <string name="reset">reset</string>
+    <string name="Team_B">Team B</string>
+    <string name="point">"point ( + 1 )"</string>
+    <string name="foulA">"foul \n (team b +1)"</string>
+    <string name="foulB">"foul \n (team a +1)"</string>
+    <dimen name="TextView_marginTop">16dp</dimen>
+    <dimen name="TextView_Botton">24dp</dimen>
+    <dimen name="Botton_Botton">8dp</dimen>
+</resources>
